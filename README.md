@@ -19,8 +19,10 @@ Computer with MATLAB software
 5.	Analyse the output in open loop and closed loop.
 
 ## Program
+<img width="1456" height="1068" alt="image" src="https://github.com/user-attachments/assets/9898011a-144b-4e8b-a7ee-bc50390a79af" />
 
 ## Output
+<img width="1911" height="1065" alt="image" src="https://github.com/user-attachments/assets/49d5e6d5-253b-45fd-a7b5-688e27795fb2" />
 
 ## Result
 Thus, the position of dc motor is controlled using MATLAB. 
